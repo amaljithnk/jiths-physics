@@ -50,6 +50,14 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+#notes, #questions, #doubts {
+    border: 2px solid #333;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
 #notes {
     background-color: #eef4f8;
 }
